@@ -1,1 +1,1 @@
-This is a mobile application for hobby, designed to add, delete and show Notes. The UI is built using React Native Expo, the backend is powered by Appwrite to store and add items.
+This is a React native Expo mobile application for hobby, designed to add, delete and show Notes. The UI is built using NativeWind, the backend is powered by Appwrite to store and add items.
